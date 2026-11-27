@@ -43,7 +43,7 @@ O desenvolvimento do projeto permitiu aplicar conhecimentos de lógica de progra
 
 O vídeo abaixo apresenta o funcionamento do protótipo, seus componentes e suas principais funcionalidades.
 
-[Assistir à demonstração do FloodGuard](COLE_O_LINK_DO_VIDEO_AQUI)
+[Assistir à demonstração do FloodGuard](https://www.youtube.com/watch?v=bFJ17tho_pI)
 
 ---
 
